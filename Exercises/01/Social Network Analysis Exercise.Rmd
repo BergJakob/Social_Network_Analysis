@@ -9,7 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](C:\Users\bergj\Desktop\Uni\Bachelor\Politikwissenschaft\Methoden\Social_Network_Analysis\Exercises\01\Social_Network_Analysis_Visualization.png) {width=50px}
+
+![](C:\Users\bergj\Desktop\Uni\Bachelor\Politikwissenschaft\Methoden\Social_Network_Analysis\Exercises\01\Social_Network_Analysis_Visualization.png){#id .class width=350 height=350px}
 
 ## **Expectations for the course**  
 * I have different expections to the upcomimg course seperated in two areas:   
