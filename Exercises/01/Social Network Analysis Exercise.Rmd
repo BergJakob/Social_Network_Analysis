@@ -1,0 +1,16 @@
+---
+title: "Social Network Analysis"
+author: "Jakob Berg"
+date: "14.06.2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](C:\Users\bergj\Desktop\Uni\Bachelor\Politikwissenschaft\Methoden\Social_Network_Analysis\Exercises\01\Social_Network_Analysis_Visualization.png) {width=50px}
+
+## **Expectations for the course**  
+* I have different expections to the upcomimg course seperated in two areas:   
+  
