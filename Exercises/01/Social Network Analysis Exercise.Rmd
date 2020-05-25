@@ -2,7 +2,9 @@
 title: "Social Network Analysis"
 author: "Jakob Berg"
 date: "14.06.2020"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -10,8 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-![](C:\Users\bergj\Desktop\Uni\Bachelor\Politikwissenschaft\Methoden\Social_Network_Analysis\Exercises\01\Social_Network_Analysis_Visualization.png){#id .class width=350 height=350px}
+![](C:\Users\bergj\Desktop\Uni\Bachelor\Politikwissenschaft\Methoden\Social_Network_Analysis\Exercises\01\Social_Network_Analysis_Visualization.png){#id .class width=450 height=450px}
 
 ## **Expectations for the course**  
 * I have different expections to the upcomimg course seperated in two areas:   
-  
+  + At first I basically just want to improve my R skills and learn new things regarding coding and setting up a daily workflow whilst working in data analysis
+  + Secondly I'm very interested in Social Network Analysis as a new area of social studies I wasn't able to get into until this semester. I heard from a student who analysized how politicians in Germnany had interacted n twitter before umpcoming elections, I would really be interested in doing analysis in this area because I think its obvious that the influence of (digital) social networks on elections and the campaigns has increased drastically. 
+   
