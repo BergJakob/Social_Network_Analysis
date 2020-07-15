@@ -1,0 +1,61 @@
+---
+title: "Solutions for second script"
+author: "Felix Lennert"
+date: "knit on `r lubridate::today()`"
+output: 
+  html_document: default
+  pdf_document: default
+---
+
+1. Install and load the `tidyverse` package. 
+
+```{r}
+# install.packages("tidyverse")
+library(tidyverse)
+```
+
+3. A farmer has 53323 chicken, 1334 cows, and 4323 horses. 
+
+(a) Store them in a vector. Name the elements.
+
+```{r}
+animals_1 <- c(chicken = 53323, cows = 1334, horses = 4323)
+```
+
+(b) The animals have bred. There are now 75 per cent more chicken, 30 per cent more cows, and 50 per cent more horses. What is this in absolute numbers? Store the results in a new vector. Round up the results using the `ceiling()` function.
+
+```{r}
+animals_2 <- ceiling(animals_1 * c(1.75, 1.3, 1.5))
+```
+
+
+(c) The farmer has to pay the tax amount x for every 2000th animal of a certain breed. How many times x does she have to pay for every breed (hint: use the `floor()` function)? For which breed does she have to pay the most (you can use the `max()` function for this)?
+
+```{r}
+tax <- floor(animals_2/2000)
+max(tax)
+```
+
+
+4. Store the data from task 3 in a tibble. Name the columns `breed`, `number_timepoint_1`, `number_timepoint_2`, `number of tax units`.
+
+```{r}
+farm_tbl <- tibble(
+  breed = names(animals_1),
+  number_timepoint_1 = animals_1,
+  number_timepoint_2 = animals_2,
+  `number of tax units` = tax
+)
+```
+
+
+(a) Which variable should be converted to a factor variable?
+
+`breed`.
+
+(b) What's the difference in numbers between time point 1 and time point 2? Store the result in a vector named `difference`.
+
+```{r}
+difference <- farm_tbl$number_timepoint_2 - farm_tbl$number_timepoint_1
+```
+

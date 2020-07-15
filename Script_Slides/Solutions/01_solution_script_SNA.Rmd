@@ -1,0 +1,65 @@
+---
+title: "Solutions for first script"
+author: "Felix Lennert"
+date: "knit on `r lubridate::today()`"
+output: 
+  pdf_document: default
+  html_document: default
+csl: ASA.csl
+bibliography: example-bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Ad 5
+
+The solutions for the tasks 1--4 are in the script. Hence, I will give you a glimpse of how an RMarkdown document containing all the features I asked for can look like.
+
+# Header 
+↑  
+This is what a header looks like. It starts with one or more hashes, depending on its level: the less hashes, the higher the level. (Note: the arrow is a unicode arrow and was just copied from a Stack Overflow answer.)
+
+# 1. Dope headers
+
+## 1.1. Their goals
+
+### 1.1.1 Getting the reader hooked
+
+#### You get it, right?
+
+Images can be inserted using this syntax:
+
+![Description of your image](figures/filepath.png)
+
+Note that if you knit to PDF, "Figure n:" will be added to your image description.
+
+Unordered lists look like this:
+
+* First entry  
+* Second entry  
+  + sub-item of second entry
+  
+In general, if you want a new line, end the former one with two spaces and hit return. Compare the next two sentence pairs in the RMD -- they look more or less the same, right? 
+
+I want to have the next sentence of words in a new line.  
+This sentence is in a new line.
+
+I don't want to have the next sentence of words in a new line.
+This sentence stands only in the RMD in a new line.
+
+Now knit the document and see the difference.
+
+If you want to start a new paragraph, just skip one line between two blocks of text.
+
+To get references into your RMarkdown, you need to specify a .csl and a .bib file in the YAML header. The former contains data on the citation style and can, for instance, be obtained [here](https://github.com/citation-style-language/styles), the latter contains data on your references and can, for instance, be exported from Zotero. You then provide the filepath in relation to the Markdown document in the YAML header. In my case, they are in the same folder as my markdowns, hence, my YAML header looks like this:
+
+![This document's YAML header](figures/yaml.png)
+
+Citing a paper in the text then looks like this: `[@salganik2017]` --> [@salganik2017].  
+If you want to specify a page or make a comment, insert it into the squared brackets: `[@salganik2017: 44]` --> [@salganik2017: 44]
+
+Don't forget to add `# References` at the end of your document.
+
+# References
