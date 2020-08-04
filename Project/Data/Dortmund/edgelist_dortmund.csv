@@ -1,0 +1,228 @@
+﻿from ;to;type;weight
+Mats Hummels;Marcel Schmelzer;Nationalität;4
+Mats Hummels;Nico Schulz;Nationalität;4
+Mats Hummels;Julian Brandt;Nationalität;4
+Mats Hummels;Emre Can;Nationalität;4
+Mats Hummels;Mahmoud Dahoud;Nationalität;4
+Mats Hummels;Mario Götze;Nationalität;4
+Mats Hummels;Tobias Raschl;Nationalität;4
+Mats Hummels;Marco Reus;Nationalität;4
+Marcel Schmelzer;Nico Schulz;Nationalität;4
+Marcel Schmelzer;Julian Brandt;Nationalität;4
+Marcel Schmelzer;Emre Can;Nationalität;4
+Marcel Schmelzer;Mahmoud Dahoud;Nationalität;4
+Marcel Schmelzer;Mario Götze;Nationalität;4
+Marcel Schmelzer;Tobias Raschl;Nationalität;4
+Marcel Schmelzer;Marco Reus;Nationalität;4
+Nico Schulz;Julian Brandt;Nationalität;4
+Nico Schulz;Emre Can;Nationalität;4
+Nico Schulz;Mahmoud Dahoud;Nationalität;4
+Nico Schulz;Mario Götze;Nationalität;4
+Nico Schulz;Tobias Raschl;Nationalität;4
+Nico Schulz;Marco Reus;Nationalität;4
+Julian Brandt;Emre Can;Nationalität;4
+Julian Brandt;Mahmoud Dahoud;Nationalität;4
+Julian Brandt;Mario Götze;Nationalität;4
+Julian Brandt;Tobias Raschl;Nationalität;4
+Julian Brandt;Marco Reus;Nationalität;4
+Emre Can;Mahmoud Dahoud;Nationalität;4
+Emre Can;Mario Götze;Nationalität;4
+Emre Can;Tobias Raschl;Nationalität;4
+Emre Can;Marco Reus;Nationalität;4
+Mahmoud Dahoud;Mario Götze;Nationalität;4
+Mahmoud Dahoud;Tobias Raschl;Nationalität;4
+Mahmoud Dahoud;Marco Reus;Nationalität;4
+Mario Götze;Tobias Raschl;Nationalität;4
+Mario Götze;Marco Reus;Nationalität;4
+Tobias Raschl;Marco Reus;Nationalität;4
+Axel Witsel;Thorgan Hazard;Nationalität;4
+Roman Bürki;Marvin Hitz;Nationalität;4
+Roman Bürki;Manuel Akanji;Nationalität;4
+Marvin Hitz;Manuel Akanji;Nationalität;4
+Emre Can;Julian Brandt;Sprache;4
+Emre Can;Mahmoud Dahoud;Sprache;4
+Emre Can;Manuel Akanji;Sprache;4
+Emre Can;Marcel Schmelzer;Sprache;4
+Emre Can;Marco Reus;Sprache;4
+Emre Can;Mario Götze;Sprache;4
+Emre Can;Marvin Hitz;Sprache;4
+Emre Can;Mats Hummels;Sprache;4
+Emre Can;Nico Schulz;Sprache;4
+Emre Can;Roman Bürki;Sprache;4
+Emre Can;Tobias Raschl;Sprache;4
+Julian Brandt;Mahmoud Dahoud;Sprache;4
+Julian Brandt;Manuel Akanji;Sprache;4
+Julian Brandt;Marcel Schmelzer;Sprache;4
+Julian Brandt;Marco Reus;Sprache;4
+Julian Brandt;Mario Götze;Sprache;4
+Julian Brandt;Marvin Hitz;Sprache;4
+Julian Brandt;Mats Hummels;Sprache;4
+Julian Brandt;Nico Schulz;Sprache;4
+Julian Brandt;Roman Bürki;Sprache;4
+Julian Brandt;Tobias Raschl;Sprache;4
+Mahmoud Dahoud;Manuel Akanji;Sprache;4
+Mahmoud Dahoud;Marcel Schmelzer;Sprache;4
+Mahmoud Dahoud;Marco Reus;Sprache;4
+Mahmoud Dahoud;Mario Götze;Sprache;4
+Mahmoud Dahoud;Marvin Hitz;Sprache;4
+Mahmoud Dahoud;Mats Hummels;Sprache;4
+Mahmoud Dahoud;Nico Schulz;Sprache;4
+Mahmoud Dahoud;Roman Bürki;Sprache;4
+Mahmoud Dahoud;Tobias Raschl;Sprache;4
+Manuel Akanji;Marcel Schmelzer;Sprache;4
+Manuel Akanji;Marco Reus;Sprache;4
+Manuel Akanji;Mario Götze;Sprache;4
+Manuel Akanji;Marvin Hitz;Sprache;4
+Manuel Akanji;Mats Hummels;Sprache;4
+Manuel Akanji;Nico Schulz;Sprache;4
+Manuel Akanji;Roman Bürki;Sprache;4
+Manuel Akanji;Tobias Raschl;Sprache;4
+Marcel Schmelzer;Marco Reus;Sprache;4
+Marcel Schmelzer;Mario Götze;Sprache;4
+Marcel Schmelzer;Marvin Hitz;Sprache;4
+Marcel Schmelzer;Mats Hummels;Sprache;4
+Marcel Schmelzer;Nico Schulz;Sprache;4
+Marcel Schmelzer;Roman Bürki;Sprache;4
+Marcel Schmelzer;Tobias Raschl;Sprache;4
+Marco Reus;Mario Götze;Sprache;4
+Marco Reus;Marvin Hitz;Sprache;4
+Marco Reus;Mats Hummels;Sprache;4
+Marco Reus;Nico Schulz;Sprache;4
+Marco Reus;Roman Bürki;Sprache;4
+Marco Reus;Tobias Raschl;Sprache;4
+Mario Götze;Marvin Hitz;Sprache;4
+Mario Götze;Mats Hummels;Sprache;4
+Mario Götze;Nico Schulz;Sprache;4
+Mario Götze;Roman Bürki;Sprache;4
+Mario Götze;Tobias Raschl;Sprache;4
+Marvin Hitz;Mats Hummels;Sprache;4
+Marvin Hitz;Nico Schulz;Sprache;4
+Marvin Hitz;Roman Bürki;Sprache;4
+Marvin Hitz;Tobias Raschl;Sprache;4
+Mats Hummels;Nico Schulz;Sprache;4
+Mats Hummels;Roman Bürki;Sprache;4
+Mats Hummels;Tobias Raschl;Sprache;4
+Nico Schulz;Roman Bürki;Sprache;4
+Nico Schulz;Tobias Raschl;Sprache;4
+Roman Bürki;Tobias Raschl;Sprache;4
+Giovanni Reyna ;Jadon Sancho;Sprache;4
+Axel Witsel;Dan-Axel Zagadou;Sprache;4
+Axel Witsel;Thorgan Hazard;Sprache;4
+Thorgan Hazard;Dan-Axel Zagadou;Sprache;4
+Achraf Hakimi;Leonardo Balerdi;Sprache;4
+Achraf Hakimi;Mateu Morey ;Sprache;4
+Leonardo Balerdi;Mateu Morey ;Sprache;4
+Emre Can;Julian Brandt;Nationalmannschaft;3
+Emre Can;Marcel Schmelzer;Nationalmannschaft;3
+Emre Can;Marco Reus;Nationalmannschaft;3
+Emre Can;Mario Götze;Nationalmannschaft;3
+Emre Can;Mats Hummels;Nationalmannschaft;3
+Julian Brandt;Marcel Schmelzer;Nationalmannschaft;3
+Julian Brandt;Marco Reus;Nationalmannschaft;3
+Julian Brandt;Mario Götze;Nationalmannschaft;3
+Julian Brandt;Mats Hummels;Nationalmannschaft;3
+Marcel Schmelzer;Marco Reus;Nationalmannschaft;3
+Marcel Schmelzer;Mario Götze;Nationalmannschaft;3
+Marcel Schmelzer;Mats Hummels;Nationalmannschaft;3
+Marco Reus;Mario Götze;Nationalmannschaft;3
+Marco Reus;Mats Hummels;Nationalmannschaft;3
+Mario Götze;Mats Hummels;Nationalmannschaft;3
+Nico Schulz;Julian Brandt;Nationalmannschaft;3
+Nico Schulz;Marco Reus;Nationalmannschaft;3
+Nico Schulz;Mario Götze;Nationalmannschaft;3
+Manuel Akanji;Marvin Hitz;Nationalmannschaft;3
+Manuel Akanji;Roman Bürki;Nationalmannschaft;3
+Marvin Hitz;Roman Bürki;Nationalmannschaft;3
+Axel Witsel;Thorgan Hazard;Nationalmannschaft;3
+Mats Hummels;Mario Götze;Weltmeister;2
+Achraf Hakimi;Dan-Axel Zagadou;Altersgruppe;1
+Achraf Hakimi;Erling Haaland;Altersgruppe;1
+Achraf Hakimi;Giovanni Reyna ;Altersgruppe;1
+Achraf Hakimi;Jadon Sancho;Altersgruppe;1
+Achraf Hakimi;Julian Brandt;Altersgruppe;1
+Achraf Hakimi;Leonardo Balerdi;Altersgruppe;1
+Achraf Hakimi;Mahmoud Dahoud;Altersgruppe;1
+Achraf Hakimi;Manuel Akanji;Altersgruppe;1
+Achraf Hakimi;Mateu Morey ;Altersgruppe;1
+Achraf Hakimi;Tobias Raschl;Altersgruppe;1
+Dan-Axel Zagadou;Erling Haaland;Altersgruppe;1
+Dan-Axel Zagadou;Giovanni Reyna ;Altersgruppe;1
+Dan-Axel Zagadou;Jadon Sancho;Altersgruppe;1
+Dan-Axel Zagadou;Julian Brandt;Altersgruppe;1
+Dan-Axel Zagadou;Leonardo Balerdi;Altersgruppe;1
+Dan-Axel Zagadou;Mahmoud Dahoud;Altersgruppe;1
+Dan-Axel Zagadou;Manuel Akanji;Altersgruppe;1
+Dan-Axel Zagadou;Mateu Morey ;Altersgruppe;1
+Dan-Axel Zagadou;Tobias Raschl;Altersgruppe;1
+Erling Haaland;Giovanni Reyna ;Altersgruppe;1
+Erling Haaland;Jadon Sancho;Altersgruppe;1
+Erling Haaland;Julian Brandt;Altersgruppe;1
+Erling Haaland;Leonardo Balerdi;Altersgruppe;1
+Erling Haaland;Mahmoud Dahoud;Altersgruppe;1
+Erling Haaland;Manuel Akanji;Altersgruppe;1
+Erling Haaland;Mateu Morey ;Altersgruppe;1
+Erling Haaland;Tobias Raschl;Altersgruppe;1
+Giovanni Reyna ;Jadon Sancho;Altersgruppe;1
+Giovanni Reyna ;Julian Brandt;Altersgruppe;1
+Giovanni Reyna ;Leonardo Balerdi;Altersgruppe;1
+Giovanni Reyna ;Mahmoud Dahoud;Altersgruppe;1
+Giovanni Reyna ;Manuel Akanji;Altersgruppe;1
+Giovanni Reyna ;Mateu Morey ;Altersgruppe;1
+Giovanni Reyna ;Tobias Raschl;Altersgruppe;1
+Jadon Sancho;Julian Brandt;Altersgruppe;1
+Jadon Sancho;Leonardo Balerdi;Altersgruppe;1
+Jadon Sancho;Mahmoud Dahoud;Altersgruppe;1
+Jadon Sancho;Manuel Akanji;Altersgruppe;1
+Jadon Sancho;Mateu Morey ;Altersgruppe;1
+Jadon Sancho;Tobias Raschl;Altersgruppe;1
+Julian Brandt;Leonardo Balerdi;Altersgruppe;1
+Julian Brandt;Mahmoud Dahoud;Altersgruppe;1
+Julian Brandt;Manuel Akanji;Altersgruppe;1
+Julian Brandt;Mateu Morey ;Altersgruppe;1
+Julian Brandt;Tobias Raschl;Altersgruppe;1
+Leonardo Balerdi;Mahmoud Dahoud;Altersgruppe;1
+Leonardo Balerdi;Manuel Akanji;Altersgruppe;1
+Leonardo Balerdi;Mateu Morey ;Altersgruppe;1
+Leonardo Balerdi;Tobias Raschl;Altersgruppe;1
+Mahmoud Dahoud;Manuel Akanji;Altersgruppe;1
+Mahmoud Dahoud;Mateu Morey ;Altersgruppe;1
+Mahmoud Dahoud;Tobias Raschl;Altersgruppe;1
+Manuel Akanji;Mateu Morey ;Altersgruppe;1
+Manuel Akanji;Tobias Raschl;Altersgruppe;1
+Mateu Morey ;Tobias Raschl;Altersgruppe;1
+Emre Can;Mario Götze;Altersgruppe;1
+Emre Can;Nico Schulz;Altersgruppe;1
+Emre Can;Raphael Guerreiro;Altersgruppe;1
+Emre Can;Roman Bürki;Altersgruppe;1
+Emre Can;Thomas Delaney;Altersgruppe;1
+Emre Can;Thorgan Hazard;Altersgruppe;1
+Mario Götze;Nico Schulz;Altersgruppe;1
+Mario Götze;Raphael Guerreiro;Altersgruppe;1
+Mario Götze;Roman Bürki;Altersgruppe;1
+Mario Götze;Thomas Delaney;Altersgruppe;1
+Mario Götze;Thorgan Hazard;Altersgruppe;1
+Nico Schulz;Raphael Guerreiro;Altersgruppe;1
+Nico Schulz;Roman Bürki;Altersgruppe;1
+Nico Schulz;Thomas Delaney;Altersgruppe;1
+Nico Schulz;Thorgan Hazard;Altersgruppe;1
+Raphael Guerreiro;Roman Bürki;Altersgruppe;1
+Raphael Guerreiro;Thomas Delaney;Altersgruppe;1
+Raphael Guerreiro;Thorgan Hazard;Altersgruppe;1
+Roman Bürki;Thomas Delaney;Altersgruppe;1
+Roman Bürki;Thorgan Hazard;Altersgruppe;1
+Thomas Delaney;Thorgan Hazard;Altersgruppe;1
+Axel Witsel;Lukasz Piszczek;Altersgruppe;1
+Axel Witsel;Marcel Schmelzer;Altersgruppe;1
+Axel Witsel;Marco Reus;Altersgruppe;1
+Axel Witsel;Marvin Hitz;Altersgruppe;1
+Axel Witsel;Mats Hummels;Altersgruppe;1
+Lukasz Piszczek;Marcel Schmelzer;Altersgruppe;1
+Lukasz Piszczek;Marco Reus;Altersgruppe;1
+Lukasz Piszczek;Marvin Hitz;Altersgruppe;1
+Lukasz Piszczek;Mats Hummels;Altersgruppe;1
+Marcel Schmelzer;Marco Reus;Altersgruppe;1
+Marcel Schmelzer;Marvin Hitz;Altersgruppe;1
+Marcel Schmelzer;Mats Hummels;Altersgruppe;1
+Marco Reus;Marvin Hitz;Altersgruppe;1
+Marco Reus;Mats Hummels;Altersgruppe;1
+Marvin Hitz;Mats Hummels;Altersgruppe;1

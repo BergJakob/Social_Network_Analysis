@@ -1,0 +1,353 @@
+﻿from;to;type;weight
+Jamal Musiala ;Jerome Boateng;Nationalität;4
+Jamal Musiala ;Joshua Kimmich;Nationalität;4
+Jamal Musiala ;Kwasi Wriedt;Nationalität;4
+Jamal Musiala ;Leon Dajaku;Nationalität;4
+Jamal Musiala ;Leon Goretzka;Nationalität;4
+Jamal Musiala ;Manuel Neuer ;Nationalität;4
+Jamal Musiala ;Niklas Suele;Nationalität;4
+Jamal Musiala ;Oliver Batista-Meier;Nationalität;4
+Jamal Musiala ;Serge Gnabry;Nationalität;4
+Jamal Musiala ;Sven Ulreich;Nationalität;4
+Jamal Musiala ;Thomas Mueller;Nationalität;4
+Jerome Boateng;Joshua Kimmich;Nationalität;4
+Jerome Boateng;Kwasi Wriedt;Nationalität;4
+Jerome Boateng;Leon Dajaku;Nationalität;4
+Jerome Boateng;Leon Goretzka;Nationalität;4
+Jerome Boateng;Manuel Neuer ;Nationalität;4
+Jerome Boateng;Niklas Suele;Nationalität;4
+Jerome Boateng;Oliver Batista-Meier;Nationalität;4
+Jerome Boateng;Serge Gnabry;Nationalität;4
+Jerome Boateng;Sven Ulreich;Nationalität;4
+Jerome Boateng;Thomas Mueller;Nationalität;4
+Joshua Kimmich;Kwasi Wriedt;Nationalität;4
+Joshua Kimmich;Leon Dajaku;Nationalität;4
+Joshua Kimmich;Leon Goretzka;Nationalität;4
+Joshua Kimmich;Manuel Neuer ;Nationalität;4
+Joshua Kimmich;Niklas Suele;Nationalität;4
+Joshua Kimmich;Oliver Batista-Meier;Nationalität;4
+Joshua Kimmich;Serge Gnabry;Nationalität;4
+Joshua Kimmich;Sven Ulreich;Nationalität;4
+Joshua Kimmich;Thomas Mueller;Nationalität;4
+Kwasi Wriedt;Leon Dajaku;Nationalität;4
+Kwasi Wriedt;Leon Goretzka;Nationalität;4
+Kwasi Wriedt;Manuel Neuer ;Nationalität;4
+Kwasi Wriedt;Niklas Suele;Nationalität;4
+Kwasi Wriedt;Oliver Batista-Meier;Nationalität;4
+Kwasi Wriedt;Serge Gnabry;Nationalität;4
+Kwasi Wriedt;Sven Ulreich;Nationalität;4
+Kwasi Wriedt;Thomas Mueller;Nationalität;4
+Leon Dajaku;Leon Goretzka;Nationalität;4
+Leon Dajaku;Manuel Neuer ;Nationalität;4
+Leon Dajaku;Niklas Suele;Nationalität;4
+Leon Dajaku;Oliver Batista-Meier;Nationalität;4
+Leon Dajaku;Serge Gnabry;Nationalität;4
+Leon Dajaku;Sven Ulreich;Nationalität;4
+Leon Dajaku;Thomas Mueller;Nationalität;4
+Leon Goretzka;Manuel Neuer ;Nationalität;4
+Leon Goretzka;Niklas Suele;Nationalität;4
+Leon Goretzka;Oliver Batista-Meier;Nationalität;4
+Leon Goretzka;Serge Gnabry;Nationalität;4
+Leon Goretzka;Sven Ulreich;Nationalität;4
+Leon Goretzka;Thomas Mueller;Nationalität;4
+Manuel Neuer ;Niklas Suele;Nationalität;4
+Manuel Neuer ;Oliver Batista-Meier;Nationalität;4
+Manuel Neuer ;Serge Gnabry;Nationalität;4
+Manuel Neuer ;Sven Ulreich;Nationalität;4
+Manuel Neuer ;Thomas Mueller;Nationalität;4
+Niklas Suele;Oliver Batista-Meier;Nationalität;4
+Niklas Suele;Serge Gnabry;Nationalität;4
+Niklas Suele;Sven Ulreich;Nationalität;4
+Niklas Suele;Thomas Mueller;Nationalität;4
+Oliver Batista-Meier;Serge Gnabry;Nationalität;4
+Oliver Batista-Meier;Sven Ulreich;Nationalität;4
+Oliver Batista-Meier;Thomas Mueller;Nationalität;4
+Serge Gnabry;Sven Ulreich;Nationalität;4
+Serge Gnabry;Thomas Mueller;Nationalität;4
+Sven Ulreich;Thomas Mueller;Nationalität;4
+Benjamin Pavard;Corentin Tolisso;Nationalität;4
+Benjamin Pavard;Kingsley Coman;Nationalität;4
+Benjamin Pavard;Lucas Hernandez;Nationalität;4
+Benjamin Pavard;Michael Cuisance;Nationalität;4
+Corentin Tolisso;Kingsley Coman;Nationalität;4
+Corentin Tolisso;Lucas Hernandez;Nationalität;4
+Corentin Tolisso;Michael Cuisance;Nationalität;4
+Kingsley Coman;Lucas Hernandez;Nationalität;4
+Kingsley Coman;Michael Cuisance;Nationalität;4
+Lucas Hernandez;Michael Cuisance;Nationalität;4
+Alvaro Odriozola;Javi Martinez;Nationalität;4
+Alvaro Odriozola;Thiago Alcantara;Nationalität;4
+Javi Martinez;Thiago Alcantara;Nationalität;4
+David Alaba;Jamal Musiala ;Sprache;4
+David Alaba;Jerome Boateng;Sprache;4
+David Alaba;Joshua Kimmich;Sprache;4
+David Alaba;Kwasi Wriedt;Sprache;4
+David Alaba;Leon Dajaku;Sprache;4
+David Alaba;Leon Goretzka;Sprache;4
+David Alaba;Manuel Neuer ;Sprache;4
+David Alaba;Niklas Suele;Sprache;4
+David Alaba;Oliver Batista-Meier;Sprache;4
+David Alaba;Serge Gnabry;Sprache;4
+David Alaba;Sven Ulreich;Sprache;4
+David Alaba;Thomas Mueller;Sprache;4
+Jamal Musiala ;Jerome Boateng;Sprache;4
+Jamal Musiala ;Joshua Kimmich;Sprache;4
+Jamal Musiala ;Kwasi Wriedt;Sprache;4
+Jamal Musiala ;Leon Dajaku;Sprache;4
+Jamal Musiala ;Leon Goretzka;Sprache;4
+Jamal Musiala ;Manuel Neuer ;Sprache;4
+Jamal Musiala ;Niklas Suele;Sprache;4
+Jamal Musiala ;Oliver Batista-Meier;Sprache;4
+Jamal Musiala ;Serge Gnabry;Sprache;4
+Jamal Musiala ;Sven Ulreich;Sprache;4
+Jamal Musiala ;Thomas Mueller;Sprache;4
+Jerome Boateng;Joshua Kimmich;Sprache;4
+Jerome Boateng;Kwasi Wriedt;Sprache;4
+Jerome Boateng;Leon Dajaku;Sprache;4
+Jerome Boateng;Leon Goretzka;Sprache;4
+Jerome Boateng;Manuel Neuer ;Sprache;4
+Jerome Boateng;Niklas Suele;Sprache;4
+Jerome Boateng;Oliver Batista-Meier;Sprache;4
+Jerome Boateng;Serge Gnabry;Sprache;4
+Jerome Boateng;Sven Ulreich;Sprache;4
+Jerome Boateng;Thomas Mueller;Sprache;4
+Joshua Kimmich;Kwasi Wriedt;Sprache;4
+Joshua Kimmich;Leon Dajaku;Sprache;4
+Joshua Kimmich;Leon Goretzka;Sprache;4
+Joshua Kimmich;Manuel Neuer ;Sprache;4
+Joshua Kimmich;Niklas Suele;Sprache;4
+Joshua Kimmich;Oliver Batista-Meier;Sprache;4
+Joshua Kimmich;Serge Gnabry;Sprache;4
+Joshua Kimmich;Sven Ulreich;Sprache;4
+Joshua Kimmich;Thomas Mueller;Sprache;4
+Kwasi Wriedt;Leon Dajaku;Sprache;4
+Kwasi Wriedt;Leon Goretzka;Sprache;4
+Kwasi Wriedt;Manuel Neuer ;Sprache;4
+Kwasi Wriedt;Niklas Suele;Sprache;4
+Kwasi Wriedt;Oliver Batista-Meier;Sprache;4
+Kwasi Wriedt;Serge Gnabry;Sprache;4
+Kwasi Wriedt;Sven Ulreich;Sprache;4
+Kwasi Wriedt;Thomas Mueller;Sprache;4
+Leon Dajaku;Leon Goretzka;Sprache;4
+Leon Dajaku;Manuel Neuer ;Sprache;4
+Leon Dajaku;Niklas Suele;Sprache;4
+Leon Dajaku;Oliver Batista-Meier;Sprache;4
+Leon Dajaku;Serge Gnabry;Sprache;4
+Leon Dajaku;Sven Ulreich;Sprache;4
+Leon Dajaku;Thomas Mueller;Sprache;4
+Leon Goretzka;Manuel Neuer ;Sprache;4
+Leon Goretzka;Niklas Suele;Sprache;4
+Leon Goretzka;Oliver Batista-Meier;Sprache;4
+Leon Goretzka;Serge Gnabry;Sprache;4
+Leon Goretzka;Sven Ulreich;Sprache;4
+Leon Goretzka;Thomas Mueller;Sprache;4
+Manuel Neuer ;Niklas Suele;Sprache;4
+Manuel Neuer ;Oliver Batista-Meier;Sprache;4
+Manuel Neuer ;Serge Gnabry;Sprache;4
+Manuel Neuer ;Sven Ulreich;Sprache;4
+Manuel Neuer ;Thomas Mueller;Sprache;4
+Niklas Suele;Oliver Batista-Meier;Sprache;4
+Niklas Suele;Serge Gnabry;Sprache;4
+Niklas Suele;Sven Ulreich;Sprache;4
+Niklas Suele;Thomas Mueller;Sprache;4
+Oliver Batista-Meier;Serge Gnabry;Sprache;4
+Oliver Batista-Meier;Sven Ulreich;Sprache;4
+Oliver Batista-Meier;Thomas Mueller;Sprache;4
+Serge Gnabry;Sven Ulreich;Sprache;4
+Serge Gnabry;Thomas Mueller;Sprache;4
+Sven Ulreich;Thomas Mueller;Sprache;4
+Alphonso Davies;Chris Richards;Sprache;4
+Alphonso Davies;Sarpeet Singh;Sprache;4
+Chris Richards;Sarpeet Singh;Sprache;4
+Benjamin Pavard;Corentin Tolisso;Sprache;4
+Benjamin Pavard;Kingsley Coman;Sprache;4
+Benjamin Pavard;Lucas Hernandez;Sprache;4
+Benjamin Pavard;Michael Cuisance;Sprache;4
+Corentin Tolisso;Kingsley Coman;Sprache;4
+Corentin Tolisso;Lucas Hernandez;Sprache;4
+Corentin Tolisso;Michael Cuisance;Sprache;4
+Kingsley Coman;Lucas Hernandez;Sprache;4
+Kingsley Coman;Michael Cuisance;Sprache;4
+Lucas Hernandez;Michael Cuisance;Sprache;4
+Alvaro Odriozola;Javi Martinez;Sprache;4
+Alvaro Odriozola;Thiago Alcantara;Sprache;4
+Javi Martinez;Thiago Alcantara;Sprache;4
+Alvaro Odriozola;Thiago Alcantara;Nationalmannschaft;3
+Javi Martinez;Thiago Alcantara;Nationalmannschaft;3
+Jerome Boateng;Joshua Kimmich;Nationalmannschaft;3
+Jerome Boateng;Leon Goretzka;Nationalmannschaft;3
+Jerome Boateng;Manuel Neuer ;Nationalmannschaft;3
+Jerome Boateng;Niklas Suele;Nationalmannschaft;3
+Jerome Boateng;Serge Gnabry;Nationalmannschaft;3
+Jerome Boateng;Thomas Mueller;Nationalmannschaft;3
+Joshua Kimmich;Leon Goretzka;Nationalmannschaft;3
+Joshua Kimmich;Manuel Neuer ;Nationalmannschaft;3
+Joshua Kimmich;Niklas Suele;Nationalmannschaft;3
+Joshua Kimmich;Serge Gnabry;Nationalmannschaft;3
+Joshua Kimmich;Thomas Mueller;Nationalmannschaft;3
+Leon Goretzka;Manuel Neuer ;Nationalmannschaft;3
+Leon Goretzka;Niklas Suele;Nationalmannschaft;3
+Leon Goretzka;Serge Gnabry;Nationalmannschaft;3
+Leon Goretzka;Thomas Mueller;Nationalmannschaft;3
+Manuel Neuer ;Niklas Suele;Nationalmannschaft;3
+Manuel Neuer ;Serge Gnabry;Nationalmannschaft;3
+Manuel Neuer ;Thomas Mueller;Nationalmannschaft;3
+Niklas Suele;Serge Gnabry;Nationalmannschaft;3
+Niklas Suele;Thomas Mueller;Nationalmannschaft;3
+Serge Gnabry;Thomas Mueller;Nationalmannschaft;3
+Benjamin Pavard;Corentin Tolisso;Nationalmannschaft;3
+Benjamin Pavard;Kingsley Coman;Nationalmannschaft;3
+Benjamin Pavard;Lucas Hernandez;Nationalmannschaft;3
+Corentin Tolisso;Kingsley Coman;Nationalmannschaft;3
+Corentin Tolisso;Lucas Hernandez;Nationalmannschaft;3
+Kingsley Coman;Lucas Hernandez;Nationalmannschaft;3
+Benjamin Pavard;Lucas Hernandez;Weltmeister;2
+Benjamin Pavard;Corentin Tolisso;Weltmeister;2
+Lucas Hernandez;Corentin Tolisso;Weltmeister;2
+Manuel Neuer;Jerome Boateng;Weltmeister;2
+Manuel Neuer;Thomas Mueller;Weltmeister;2
+Jerome Boateng;Thomas Mueller;Weltmeister;2
+David Alaba;Javi Martinez;CL-Sieger;2
+David Alaba;Jerome Boateng;CL-Sieger;2
+David Alaba;Manuel Neuer ;CL-Sieger;2
+David Alaba;Thomas Mueller;CL-Sieger;2
+Javi Martinez;Jerome Boateng;CL-Sieger;2
+Javi Martinez;Manuel Neuer ;CL-Sieger;2
+Javi Martinez;Thomas Mueller;CL-Sieger;2
+Jerome Boateng;Manuel Neuer ;CL-Sieger;2
+Jerome Boateng;Thomas Mueller;CL-Sieger;2
+Manuel Neuer ;Thomas Mueller;CL-Sieger;2
+Alphonso Davies;Alvaro Odriozola;Altersgruppe;1
+Alphonso Davies;Benjamin Pavard;Altersgruppe;1
+Alphonso Davies;Chris Richards;Altersgruppe;1
+Alphonso Davies;Jamal Musiala ;Altersgruppe;1
+Alphonso Davies;Joshua Zirkzee;Altersgruppe;1
+Alphonso Davies;Kingsley Coman;Altersgruppe;1
+Alphonso Davies;Leon Dajaku;Altersgruppe;1
+Alphonso Davies;Lucas Hernandez;Altersgruppe;1
+Alphonso Davies;Michael Cuisance;Altersgruppe;1
+Alphonso Davies;Niklas Suele;Altersgruppe;1
+Alphonso Davies;Oliver Batista-Meier;Altersgruppe;1
+Alphonso Davies;Sarpeet Singh;Altersgruppe;1
+Alphonso Davies;Serge Gnabry;Altersgruppe;1
+Alvaro Odriozola;Benjamin Pavard;Altersgruppe;1
+Alvaro Odriozola;Chris Richards;Altersgruppe;1
+Alvaro Odriozola;Jamal Musiala ;Altersgruppe;1
+Alvaro Odriozola;Joshua Zirkzee;Altersgruppe;1
+Alvaro Odriozola;Kingsley Coman;Altersgruppe;1
+Alvaro Odriozola;Leon Dajaku;Altersgruppe;1
+Alvaro Odriozola;Lucas Hernandez;Altersgruppe;1
+Alvaro Odriozola;Michael Cuisance;Altersgruppe;1
+Alvaro Odriozola;Niklas Suele;Altersgruppe;1
+Alvaro Odriozola;Oliver Batista-Meier;Altersgruppe;1
+Alvaro Odriozola;Sarpeet Singh;Altersgruppe;1
+Alvaro Odriozola;Serge Gnabry;Altersgruppe;1
+Benjamin Pavard;Chris Richards;Altersgruppe;1
+Benjamin Pavard;Jamal Musiala ;Altersgruppe;1
+Benjamin Pavard;Joshua Zirkzee;Altersgruppe;1
+Benjamin Pavard;Kingsley Coman;Altersgruppe;1
+Benjamin Pavard;Leon Dajaku;Altersgruppe;1
+Benjamin Pavard;Lucas Hernandez;Altersgruppe;1
+Benjamin Pavard;Michael Cuisance;Altersgruppe;1
+Benjamin Pavard;Niklas Suele;Altersgruppe;1
+Benjamin Pavard;Oliver Batista-Meier;Altersgruppe;1
+Benjamin Pavard;Sarpeet Singh;Altersgruppe;1
+Benjamin Pavard;Serge Gnabry;Altersgruppe;1
+Chris Richards;Jamal Musiala ;Altersgruppe;1
+Chris Richards;Joshua Zirkzee;Altersgruppe;1
+Chris Richards;Kingsley Coman;Altersgruppe;1
+Chris Richards;Leon Dajaku;Altersgruppe;1
+Chris Richards;Lucas Hernandez;Altersgruppe;1
+Chris Richards;Michael Cuisance;Altersgruppe;1
+Chris Richards;Niklas Suele;Altersgruppe;1
+Chris Richards;Oliver Batista-Meier;Altersgruppe;1
+Chris Richards;Sarpeet Singh;Altersgruppe;1
+Chris Richards;Serge Gnabry;Altersgruppe;1
+Jamal Musiala ;Joshua Zirkzee;Altersgruppe;1
+Jamal Musiala ;Kingsley Coman;Altersgruppe;1
+Jamal Musiala ;Leon Dajaku;Altersgruppe;1
+Jamal Musiala ;Lucas Hernandez;Altersgruppe;1
+Jamal Musiala ;Michael Cuisance;Altersgruppe;1
+Jamal Musiala ;Niklas Suele;Altersgruppe;1
+Jamal Musiala ;Oliver Batista-Meier;Altersgruppe;1
+Jamal Musiala ;Sarpeet Singh;Altersgruppe;1
+Jamal Musiala ;Serge Gnabry;Altersgruppe;1
+Joshua Zirkzee;Kingsley Coman;Altersgruppe;1
+Joshua Zirkzee;Leon Dajaku;Altersgruppe;1
+Joshua Zirkzee;Lucas Hernandez;Altersgruppe;1
+Joshua Zirkzee;Michael Cuisance;Altersgruppe;1
+Joshua Zirkzee;Niklas Suele;Altersgruppe;1
+Joshua Zirkzee;Oliver Batista-Meier;Altersgruppe;1
+Joshua Zirkzee;Sarpeet Singh;Altersgruppe;1
+Joshua Zirkzee;Serge Gnabry;Altersgruppe;1
+Kingsley Coman;Leon Dajaku;Altersgruppe;1
+Kingsley Coman;Lucas Hernandez;Altersgruppe;1
+Kingsley Coman;Michael Cuisance;Altersgruppe;1
+Kingsley Coman;Niklas Suele;Altersgruppe;1
+Kingsley Coman;Oliver Batista-Meier;Altersgruppe;1
+Kingsley Coman;Sarpeet Singh;Altersgruppe;1
+Kingsley Coman;Serge Gnabry;Altersgruppe;1
+Leon Dajaku;Lucas Hernandez;Altersgruppe;1
+Leon Dajaku;Michael Cuisance;Altersgruppe;1
+Leon Dajaku;Niklas Suele;Altersgruppe;1
+Leon Dajaku;Oliver Batista-Meier;Altersgruppe;1
+Leon Dajaku;Sarpeet Singh;Altersgruppe;1
+Leon Dajaku;Serge Gnabry;Altersgruppe;1
+Lucas Hernandez;Michael Cuisance;Altersgruppe;1
+Lucas Hernandez;Niklas Suele;Altersgruppe;1
+Lucas Hernandez;Oliver Batista-Meier;Altersgruppe;1
+Lucas Hernandez;Sarpeet Singh;Altersgruppe;1
+Lucas Hernandez;Serge Gnabry;Altersgruppe;1
+Michael Cuisance;Niklas Suele;Altersgruppe;1
+Michael Cuisance;Oliver Batista-Meier;Altersgruppe;1
+Michael Cuisance;Sarpeet Singh;Altersgruppe;1
+Michael Cuisance;Serge Gnabry;Altersgruppe;1
+Niklas Suele;Oliver Batista-Meier;Altersgruppe;1
+Niklas Suele;Sarpeet Singh;Altersgruppe;1
+Niklas Suele;Serge Gnabry;Altersgruppe;1
+Oliver Batista-Meier;Sarpeet Singh;Altersgruppe;1
+Oliver Batista-Meier;Serge Gnabry;Altersgruppe;1
+Sarpeet Singh;Serge Gnabry;Altersgruppe;1
+Corentin Tolisso;David Alaba;Altersgruppe;1
+Corentin Tolisso;Joshua Kimmich;Altersgruppe;1
+Corentin Tolisso;Kwasi Wriedt;Altersgruppe;1
+Corentin Tolisso;Leon Goretzka;Altersgruppe;1
+Corentin Tolisso;Phillippe Coutinho;Altersgruppe;1
+Corentin Tolisso;Thiago Alcantara;Altersgruppe;1
+Corentin Tolisso;Thomas Mueller;Altersgruppe;1
+David Alaba;Joshua Kimmich;Altersgruppe;1
+David Alaba;Kwasi Wriedt;Altersgruppe;1
+David Alaba;Leon Goretzka;Altersgruppe;1
+David Alaba;Phillippe Coutinho;Altersgruppe;1
+David Alaba;Thiago Alcantara;Altersgruppe;1
+David Alaba;Thomas Mueller;Altersgruppe;1
+Joshua Kimmich;Kwasi Wriedt;Altersgruppe;1
+Joshua Kimmich;Leon Goretzka;Altersgruppe;1
+Joshua Kimmich;Phillippe Coutinho;Altersgruppe;1
+Joshua Kimmich;Thiago Alcantara;Altersgruppe;1
+Joshua Kimmich;Thomas Mueller;Altersgruppe;1
+Kwasi Wriedt;Leon Goretzka;Altersgruppe;1
+Kwasi Wriedt;Phillippe Coutinho;Altersgruppe;1
+Kwasi Wriedt;Thiago Alcantara;Altersgruppe;1
+Kwasi Wriedt;Thomas Mueller;Altersgruppe;1
+Leon Goretzka;Phillippe Coutinho;Altersgruppe;1
+Leon Goretzka;Thiago Alcantara;Altersgruppe;1
+Leon Goretzka;Thomas Mueller;Altersgruppe;1
+Phillippe Coutinho;Thiago Alcantara;Altersgruppe;1
+Phillippe Coutinho;Thomas Mueller;Altersgruppe;1
+Thiago Alcantara;Thomas Mueller;Altersgruppe;1
+Ivan Perisic;Javi Martinez;Altersgruppe;1
+Ivan Perisic;Jerome Boateng;Altersgruppe;1
+Ivan Perisic;Manuel Neuer ;Altersgruppe;1
+Ivan Perisic;Robert Lewandowski;Altersgruppe;1
+Ivan Perisic;Sven Ulreich;Altersgruppe;1
+Javi Martinez;Jerome Boateng;Altersgruppe;1
+Javi Martinez;Manuel Neuer ;Altersgruppe;1
+Javi Martinez;Robert Lewandowski;Altersgruppe;1
+Javi Martinez;Sven Ulreich;Altersgruppe;1
+Jerome Boateng;Manuel Neuer ;Altersgruppe;1
+Jerome Boateng;Robert Lewandowski;Altersgruppe;1
+Jerome Boateng;Sven Ulreich;Altersgruppe;1
+Manuel Neuer ;Robert Lewandowski;Altersgruppe;1
+Manuel Neuer ;Sven Ulreich;Altersgruppe;1
+Robert Lewandowski;Sven Ulreich;Altersgruppe;1
