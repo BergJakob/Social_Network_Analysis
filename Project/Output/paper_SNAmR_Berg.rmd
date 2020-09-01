@@ -1,0 +1,45 @@
+---
+title: "Soziale Netzwerke in Fußbalteams - Der Schlüssel zum Erfolg?"
+author: "Jakob Berg"
+date: "`r lubridate::today()`"
+output:
+  word_document: default
+  html_document: default
+---
+
+# 1. Die Bundesligasaison 2019/20: Spannendes oder erwartbares Saisonfinale? 
+
+An einem verregneten Dienstag im Juni wurde der FC Bayern mit einem unspektakulären 1:0 gegen Werder Bremen erneut Deutscher Fußball-Meister. Umso spektakulärer ist, dass der Erfolgsklub aus dem Süden die Bundesliga bereits das achte Mal in Folge gewinnen konnte. Sicher fußt diese Dominanz auch auf finanzielle und vor allem sportliche Überlegenheit. Auch in den beiden direkten Duellen gegen den späteren Bundesliga-Zweiten und aktuell größten Konkurrenten, Borussia Dortmund, konnte sich der Rekordmeister aus München deutlich abheben und lies den Borussen mit einem spielübergreifenden 5:0 keine Chance. Doch haben die Bayern wirklich einfach nur die besseren Spieler, die ausgereiftere Taktik und die überlegerene Mentalität? Oder beruht das oft zitierte 'Siegergen' des FCB auch auf anderen Faktoren? Diese Analyse beschäftigt sich mit den gruppenpsychologischen Aspekten des Sports und untersucht hierzu die sozialen Netzwerke in Fußballmannschaften, exemplarisch bei Borussia Dortmund und dem FC Bayern München. Ähnlich wie beim bekannten Spielmodus Ultimate Team (UT) des Fußballvideospiels FIFA, herausgegeben vom Branchenprimus EA-Sports, werden die Beziehungen der Spieler, die gemeinsam auf dem Feld stehen, untersucht und bewertet. Bei FIFA UT wird dieses Bewertungssystem Teamchemie genannt und trägt erheblich zur Spielstärke oder -schwäche der erspielten Mannschaften bei. Im Rahmen dieser Analyse werden die Netzwerke, die die beiden Teams anhand von Verbindungsattributen wie Sprache oder gemeinsame Nationalität darstellen, anhand von zwei Forschungsfragen untersucht:  
+  1. Sind Mannschaften mit enger verbundenen Netzwerken sportlich erfolgreicher?    
+  2. Sind Spieler die in ihren Teams enger vernetzt sind, sportlich erfolgreicher?  
+Diese Fragen werden durch Bewertungs- und Analyseeinheiten aus der Netzwerkanalyse und Spielerbewertungen von der Sportzeitung Kicker und dem Sport-Statistiktool Sofascore analysiert. Zunächst wird aber theoretisch die Bedeutung von Gruppenpsychologie und sozialen Beziehungen im Sport erörtert, um dann analytisch die Netzwerke der beiden Teams zu untersuchen. 
+
+vllt. noch bissl LR reinbringen anhand S.224 Lau
+
+# 2. Sozialpsychologie und Gruppendynamik im Profifußball
+
+In der Sportwissenschaft und der Sportpsychologie spielen Gruppen, Teams und deren Dynamiken sowie sozialen Strukturen eine elementare Rolle. Gruppen haben einen erheblichen psychosozialen Einfluss auf Athleten und Sportler als Teil der Sportgruppe (vgl.: Lau & Plessner 2016: 180). Im wissenschaftlichen Diskurs gibt es eine pessimistische und eine optimistische Auffassung über den Einfluss von Gruppendynamiken auf die sportliche Leistung von Teams und Einzelsportlern. Während einerseits davon ausgegangen wird, dass durch die verschiedenen Prozesse einer Gruppendynamik zu gewissen Prozess-, Kommunikations- und Motivationsverlusten kommt, wird andererseits angenommmen, dass durch gemeinsame Motivations- und Lernprozesse die Einzelleistung verbessert werden kann (vgl.: Lau & Plessner 2016: 180). Das Konzept hinter der pessimistischen Auffassung wird Prozessverlust genannt, die beschriebene mögliche positive Auswirkung Synergieeffekt. Im Rahmen dieser Analyse wird von letzterem ausgegangen und erwartet, dass engere soziale Netzwerke in Fußballteams sowohl beim gesamten Team als auch bei den einzelnen Spielern bessere sportliche Leistungen initieren können. Voraussetzung hierfür ist aber die sportwissenschaftliche Theorie der erfolgreichen Gruppenkohäsion innerhalb der Teams. 
+--> beschreiben was is Gruppenkohäsion mit Faktoren, anhand denen dann edgevariablen begründen
+
+
+
+
+- Stichwort Gruppenkohäsion (Lektion 10)
+- Beleg gemeinsame Erfolge usw: S.219 k10 lau
+- vier Faktoren für Gruppenkohäsion ab Seite 218 extrem wichtig/gut
+- situative Faktoren: Sprache/Nation/Kommunikation der Spieler
+- Kohäsion und Leistung S.223
+- Beleg Kommunikation wichtig für leistungsoptimierung Lau 247
+- Alfermann: vorheriger Erfolg hat Einfluss auf Kohäsion (eher als andersrum, durch Studien nachgewiesen) 241
+
+
+
+
+# 3. FC Bayern und Dortmund: Soziale Gruppendynamik als Siegfaktor? 
+- Dichte (FCB: 0,93; BVB: 0,82)  
+
+# 4. Schluss/Fazit
+
+mehr interne Informationen wären sinnvoll, Freundschaft, Streit --Kohäsionsdiagnostik
+Trainerposition könnte auch beleuchtet werden
+
