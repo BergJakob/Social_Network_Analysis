@@ -18,27 +18,22 @@ vllt. noch bissl LR reinbringen anhand S.224 Lau
 
 # 2. Sozialpsychologie und Gruppendynamik im Profifußball
 
-In der Sportwissenschaft und der Sportpsychologie spielen Gruppen, Teams und deren Dynamiken sowie sozialen Strukturen eine elementare Rolle. Gruppen haben einen erheblichen psychosozialen Einfluss auf Athleten und Sportler als Teil der Sportgruppe (vgl.: Lau & Plessner 2016: 180). Im wissenschaftlichen Diskurs gibt es eine pessimistische und eine optimistische Auffassung über den Einfluss von Gruppendynamiken auf die sportliche Leistung von Teams und Einzelsportlern. Während einerseits davon ausgegangen wird, dass durch die verschiedenen Prozesse einer Gruppendynamik zu gewissen Prozess-, Kommunikations- und Motivationsverlusten kommt, wird andererseits angenommmen, dass durch gemeinsame Motivations- und Lernprozesse die Einzelleistung verbessert werden kann (vgl.: Lau & Plessner 2016: 180). Das Konzept hinter der pessimistischen Auffassung wird Prozessverlust genannt, die beschriebene mögliche positive Auswirkung Synergieeffekt. Im Rahmen dieser Analyse wird von letzterem ausgegangen und erwartet, dass engere soziale Netzwerke in Fußballteams sowohl beim gesamten Team als auch bei den einzelnen Spielern bessere sportliche Leistungen initieren können. Voraussetzung hierfür ist aber die sportwissenschaftliche Theorie der erfolgreichen Gruppenkohäsion innerhalb der Teams. 
---> beschreiben was is Gruppenkohäsion mit Faktoren, anhand denen dann edgevariablen begründen
+In der Sportwissenschaft und der Sportpsychologie spielen Gruppen, Teams und deren Dynamiken sowie sozialen Strukturen eine elementare Rolle. Gruppen haben einen erheblichen psychosozialen Einfluss auf Athleten und Sportler als Teil der Sportgruppe (vgl.: Lau & Plessner 2016: 180). Im wissenschaftlichen Diskurs gibt es eine pessimistische und eine optimistische Auffassung über den Einfluss von Gruppendynamiken auf die sportliche Leistung von Teams und Einzelsportlern. Während einerseits davon ausgegangen wird, dass es durch die verschiedenen Vorgänge einer Gruppendynamik zu gewissen Prozess-, Kommunikations- und Motivationsverlusten kommt, wird andererseits angenommmen, dass durch gemeinsame Motivations- und Lernprozesse die Einzelleistung verbessert werden kann. Das Konzept hinter der pessimistischen Auffassung wird Prozessverlust genannt, die beschriebene mögliche positive Auswirkung Synergieeffekt (vgl.: Lau & Plessner 2016: 180). Im Rahmen dieser Analyse wird von letzterem ausgegangen und erwartet, dass engere soziale Netzwerke in Fußballteams sowohl beim gesamten Team als auch bei den einzelnen Spielern bessere sportliche Leistungen initieren können. Voraussetzung hierfür ist aber die sportwissenschaftliche Theorie der erfolgreichen Gruppenkohäsion innerhalb der Teams. 
+Konkret meint dies den Prozess einer Gruppe, die sich langfristig zusammen schließt um sowohl gemeinsame Ziele als auch Zufriedenheit für alle Gruppenteile zu erreichen (vgl.: Lau & Plessner 2016: 215). Der Erfolg einer Gruppenkohäsion fußt auf vier Faktoren, aus denen die Variablen der nachfolgenden Netzwerk-Analyse erarbeitet wurde. Im Einzelnen sind dies situative und persönliche sowie Führungs- und Mannschaftsfaktoren. Für diese Untersuchung sind vor allem die ersten beiden relevant. Als situative Faktoren sind gesellschaftliche und kulturelle Strukturen und geografische Voraussetzungen von Bedeutung (vgl: Lau & Plessner 2016: 219). So werden die Netzwerke nachfolgend auf Sprache und Natationalität untersucht. Außerdem sind die theoretisch formulierten persönlichen Faktoren in den Netzwerken von Bedeutung. Eigenschaften wie Alter und Geschlecht haben Einfluss auf das Zusammenwirken einer Gruppe. Selbstverständlich werden im Rahmen dieser Analyse nur Männerteams untersucht, weswegen nur die verschiedenen Altersgruppen eines Teams als maßgebende Netzwerkvariablen beleuchtet wurden. Nicht zuletzt beieinflussen auch mannschaftsbezogene Faktoren die Kohäsion, als Beispiele dienen hier die Dauer der gemeinsamen Teamzugehörigkeit der Mitglieder und kollektive Gruppenerinnerungen wie bedeutende gemeinsame Erfolge oder Niederlagen. Deswegen wurden gemeinsame Mitgliedschaften in Nationalmannschaften sowie Erfolge in der Championsleague und einer Weltmeisterschaft berücksichtigt (vgl: Lau & Plessner 2016: 218ff). 
+Ein Zusammenhang von Kohäsion und sportlicher Leistung wurde zwar theoretisch immer wieder erörtert und scheint auch kohärent, allerdings konnte in den wenigen bekannten Untersuchungen die sich mit dieser Fragestellung befassen, bisher nur ein mäßiger statistischer Zusammenhang aufgezeigt werden können (vgl: Lau & Plessner 2016: 225) Aus diesem Grund wird die Fragestellung im Folgenden anhand einer Netzwerkanalyse untersucht, um so mögliche neue Erkenntnisse der Auswirkung von sozialen Beziehungen in Sportteams gewinnen zu können. Zunächst wird aber kurz das methodische Vorgehen und das verwendete Forschungsdesign erläutert
 
-
-
-
-- Stichwort Gruppenkohäsion (Lektion 10)
-- Beleg gemeinsame Erfolge usw: S.219 k10 lau
-- vier Faktoren für Gruppenkohäsion ab Seite 218 extrem wichtig/gut
-- situative Faktoren: Sprache/Nation/Kommunikation der Spieler
-- Kohäsion und Leistung S.223
-- Beleg Kommunikation wichtig für leistungsoptimierung Lau 247
 - Alfermann: vorheriger Erfolg hat Einfluss auf Kohäsion (eher als andersrum, durch Studien nachgewiesen) 241
 
+# 3. Methodik und Forschungsdesign
 
+- Welche Variablen, Spieler, Zeitraum verwendet
+- beschreiben dass dann als Regression verwendet
+- Kurzfassung abgleichen mit Powner Reasearch Design
 
-
-# 3. FC Bayern und Dortmund: Soziale Gruppendynamik als Siegfaktor? 
+# 4. FC Bayern und Dortmund: Soziale Gruppendynamik als Siegfaktor? 
 - Dichte (FCB: 0,93; BVB: 0,82)  
 
-# 4. Schluss/Fazit
+# 5. Schluss/Fazit
 
 mehr interne Informationen wären sinnvoll, Freundschaft, Streit --Kohäsionsdiagnostik
 Trainerposition könnte auch beleuchtet werden
